@@ -638,12 +638,9 @@ export default function HomePage() {
 
           <div className="flex gap-6">
             <a href="https://linkedin.com/in/mohammad-salman-khan" target="_blank" className="hover:text-white transition-colors">LinkedIn</a>
-            <a href="https://github.com" target="_blank" className="hover:text-white transition-colors">GitHub</a>
+            <a href="https://github.com/salmank0" target="_blank" className="hover:text-white transition-colors">GitHub</a>
           </div>
         </div>
-        <p className="max-w-2xl mx-auto px-4 text-[10px] text-zinc-600 leading-relaxed">
-          Disclaimer: Intellectual properties, source code, and design patterns from Yash Raj Films, Dharma Productions, and Cinépolis Global remain private and are represented under NDA compliance via generic architectural descriptions and performance simulator sandboxes.
-        </p>
       </footer>
     </div>
   );
